@@ -1,0 +1,6 @@
+{
+  "name": "مذاكرتي - رفيق الطالب الذكي",
+  "description": "تطبيق متكامل للمذاكرة وإدارة المهام والكروت والملاحظات مع دعم تعدد المستخدمين والبيانات المستقلة لكل طالب وجاهز للنشر على GitHub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
